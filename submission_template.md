@@ -1,8 +1,8 @@
 # AI Code Review Assignment (Python)
 
 ## Candidate
-- Name:
-- Approximate time spent:
+- Name:Abdul Moeed
+- Approximate time spent: 50 mins
 
 ---
 
